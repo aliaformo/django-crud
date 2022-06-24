@@ -11,8 +11,11 @@ https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function
 https://www.youtube.com/watch?v=7sUEktXzxlA
 ### 🔧 Tools
 Django version 4.0.5 
+
 Python version 3.10.4
-Visual Studio Code version 1.68
+
+Visual Studio Code version 1.68 
+
 Git 2.36.1
 
 Github repository
