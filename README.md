@@ -1,6 +1,5 @@
-# django-crud
-Django CRUD
 
+# Django CRUD
 ## 📝 This is a task for I4GxZuri
 ### 📜 Task Title: 
 - Django CRUD
