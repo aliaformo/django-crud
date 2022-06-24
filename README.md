@@ -3,7 +3,7 @@ Django CRUD
 
 ## 📝 This is a task for I4GxZuri
 ### 📜 Task Title: 
-Django CRUD
+- Django CRUD
 ### ✍ Instructions:
 - Several [Django CRUD] Instructions. Assignments.
 ### 📚 Resources:
